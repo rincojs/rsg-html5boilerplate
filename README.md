@@ -1,1 +1,7 @@
-# rsg-default
+# Usage
+
+To run use
+
+``` 
+$ rinco server
+```
