@@ -1,4 +1,4 @@
-# HTML5 Boilerplate for rinco
+# HTML5 Boilerplate for Rinco SG
 [https://github.com/h5bp/html5-boilerplate]()
 # Usage
 
